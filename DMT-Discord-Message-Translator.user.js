@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DMT - Discord Message Translator
 // @namespace    http://tampermonkey.net/
-// @version      0.4
+// @version      0.5
 // @description  перевод сообщений в Discord
 // @author       ZVX
 // @match        https://discord.com/channels/*
