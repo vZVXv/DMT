@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         DMS - Discord Message Translator
+// @name         DMT - Discord Message Translator
 // @namespace    http://tampermonkey.net/
 // @version      0.4
 // @description  перевод сообщений в Discord
